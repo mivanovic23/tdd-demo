@@ -5,7 +5,6 @@
   "main": "index.js",
   "scripts": {
     "test": "mocha src/**/**.spec.js",
-    //ovdje sam dodao watch
     "watch": "mocha --watch src/**/**.spec.js"
   },
   "repository": {
